@@ -1,0 +1,6 @@
+{
+  "name": "CineBoard AI - Storyboard & Video Studio",
+  "description": "Aplikasi storyboard sinematik sekuensial dengan AI scriptwriter, konsistensi visual, pencahayaan dramatis, pengaturan durasi adegan, dan ekspor video.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
